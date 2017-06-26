@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Giphy</string>
+    <string name="labbel_giphy">Giphy</string>
+    <string name="labbel_favourite">Favourite</string>
+</resources>
